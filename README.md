@@ -6,8 +6,6 @@
   <a href="url" ><h3>:video_game: Engine </h3> </a>
 </div>
 
-<br/>
-
 <div align="center">
 	<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white" />
 	<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white" />
