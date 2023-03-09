@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ericj4ng&fontSize=90" />
-
 ###### 안녕하세요! 게임 개발에 관심이 있는 개발자입니다! Unreal engine, Unity engine 모두 다루며 게임을 모작하며 공부하고 있습니다. 
 
 <div align="center">
